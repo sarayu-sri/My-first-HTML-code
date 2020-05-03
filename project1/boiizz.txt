@@ -1,0 +1,32 @@
+<DOCTYPE! html>
+<html>
+<head>
+<title> BOYYZZ :P </title>
+</head>
+<body style="background-color:Gainsboro;text-align:center">
+<h2>Harry Styles</h2>
+<p>We will never know when his pants are gonna slip down and when he is gonna trip down<br>Yet so adorable that its barely impossible to try not to aww at him.</p>
+<img src="harry.jpg"
+ style="width:200px;height:252px;">
+
+<h2>Niall Horan</h2>
+<p>Cocky and cute.<br>Loves food more than literally any damn thing.<br>Twerks way better than Nicki Minaj.</p>
+<img src="niiall.jpg"
+ style="width:199px;height:253px;">
+
+<h2>Zayn Malik</h2>
+<p>Sexiest man alive.<br>The mysterious guy.<br>But god knows what ghost possessed him that he left the band.</p>
+<img src="zayn.jpg"
+ style="width:255px;height:255px;">
+
+<h2>Liam Payne</h2>
+<p>Well known as Daddy Direction.<br>Dances better than the rest of the monkeys.<br>Loves zayn -.-</p>
+<img src="liam.jpg"
+ style="width:193px;height:261px;">
+
+<h2>Louis Tomlinson</h2>
+<p>His mom and his fans love calling him boo-bear but he hates that name.<br>Creative and crazy.<br>Loves to annoy people.</p>
+<img src="louis.jpg"
+ style="width:284px;height:178px;">
+</body>
+</html> 

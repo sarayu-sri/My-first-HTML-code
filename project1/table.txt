@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+width:100%;
+}
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+}
+th, td {
+padding: 15px;
+text-align: left;
+}
+table#t01 tr:nth-child(even) {
+background-color:LightSkyBlue;
+}
+table#t01 tr:nth-child(odd) {
+background-color:LightSteelBlue;
+}
+table#t01 th {
+background color: CadetBlue;
+color: white;
+}
+</style>
+</head>
+<body>
+
+<h2></h2>
+
+<table id="t01";>
+<tr>
+<th>Name</th>
+<th>Age</th>
+<th>Birthday</th>
+<th>Place of Birth</th>
+</tr>
+<tr>
+<td>Harry Styles</td>
+<td>26</td>
+<td>1 February, 1994</td>
+<td>Redditch, UK</td>
+</tr>
+<tr>
+<td>Niall Horan</td>
+<td>26</td>
+<td>13 September, 1993</td>
+<td>Mullingar,Ireland</td>
+</tr>
+<tr>
+<td>Zayn Malik</td>
+<td>27</td>
+<td>12 January, 1993</td>
+<td>Bradford, UK</td>
+</tr>
+<tr>
+<td>Liam Payne</td>
+<td>26</td>
+<td>29 August, 1993</td>
+<td>Wolverhampton, UK</td>
+</tr>
+<tr>
+<td>Louis Tomlinson</td>
+<td>28</td>
+<td>24 December, 1991</td>
+<td>Doncaster, UK</td>
+</tr>
+</table>
+</body>
+</html>
